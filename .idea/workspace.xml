@@ -25,22 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2a1058a-a495-48c4-84a9-76788b947eae" name="Default Changelist" comment="create TT">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_tt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/woukfun/Tt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/woukfun/Tt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/hello_tt-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/hello_tt-1.0-SNAPSHOT/WEB-INF/classes/cn/woukfun/Tt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/hello_tt-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/hello_tt-1.0-SNAPSHOT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,7 +254,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599963248172</updated>
       <workItem from="1599963252152" duration="1496000" />
-      <workItem from="1599964807010" duration="496000" />
+      <workItem from="1599964807010" duration="827000" />
     </task>
     <task id="LOCAL-00001" summary="create TT">
       <created>1599963736225</created>
