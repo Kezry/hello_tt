@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2a1058a-a495-48c4-84a9-76788b947eae" name="Default Changelist" comment="create TT">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a2a1058a-a495-48c4-84a9-76788b947eae" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,6 +253,7 @@
       <updated>1599963248172</updated>
       <workItem from="1599963252152" duration="1496000" />
       <workItem from="1599964807010" duration="827000" />
+      <workItem from="1599966128719" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="create TT">
       <created>1599963736225</created>
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599963736226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1599966184840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599966184840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +292,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="create TT" />
-    <option name="LAST_COMMIT_MESSAGE" value="create TT" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="661" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599963447087">
@@ -361,9 +368,9 @@
       <screen x="0" y="0" width="1824" height="1185" />
     </state>
     <state x="708" y="130" key="SettingsEditor/0.0.1824.1185@0.0.1824.1185" timestamp="1599964833677" />
-    <state x="799" y="218" key="Vcs.Push.Dialog.v2" timestamp="1599963777169">
+    <state x="799" y="218" key="Vcs.Push.Dialog.v2" timestamp="1599966411407">
       <screen x="0" y="0" width="1824" height="1185" />
     </state>
-    <state x="799" y="218" key="Vcs.Push.Dialog.v2/0.0.1824.1185@0.0.1824.1185" timestamp="1599963777169" />
+    <state x="799" y="218" key="Vcs.Push.Dialog.v2/0.0.1824.1185@0.0.1824.1185" timestamp="1599966411407" />
   </component>
 </project>
